@@ -12,6 +12,7 @@ import ArrowUpIcon from "../../public/assets/arrow-up-icon.svg";
 import DiscountIcon from "../../public/assets/discount-icon.svg";
 import NavbarIcon from "../../public/assets/navbar-icon.svg";
 import RobotHandImg from "../../public/assets/robot-hand.png";
+import HamburgerMenuIcon from "../../public/assets/burger-menu-icon.svg";
 
 // Components export
 export { Banner, Header, StatisticSection };
@@ -20,4 +21,10 @@ export { Banner, Header, StatisticSection };
 export { Image, Link };
 
 // Icons, Images export
-export { ArrowUpIcon, DiscountIcon, NavbarIcon, RobotHandImg };
+export {
+  ArrowUpIcon,
+  DiscountIcon,
+  NavbarIcon,
+  RobotHandImg,
+  HamburgerMenuIcon,
+};
